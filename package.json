@@ -40,23 +40,23 @@
     "stats-webpack-plugin": "^0.6.2",
     "uglifyjs-webpack-plugin": "^1.2.7",
     "webpack": "^4.16.1",
-    "webpack-bundle-analyzer": "^2.13.1",
+    "webpack-bundle-analyzer": "^4.10.2",
     "webpack-cli": "^3.0.8",
     "webpack-node-externals": "^1.6.0"
   },
   "dependencies": {
-    "bootstrap-sass": "^3.3.6",
+    "bootstrap-sass": "^3.4.3",
     "core-js": "^2.5.7",
     "dayjs": "^1.7.4",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "keycode-js": "^1.0.3",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.21",
     "query-string": "^5.1.1",
-    "vue": "^2.5.16",
+    "vue": "^3.0.0",
     "vue-loader": "^15.2.4",
     "vue-multiselect": "shentao/vue-multiselect#496937bee",
     "vue-resource": "^1.5.1",
-    "vue-template-compiler": "^2.5.16",
+    "vue-template-compiler": "^2.7.16",
     "vuelidate": "^0.7.4"
   }
 }
